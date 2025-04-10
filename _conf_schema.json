@@ -1,0 +1,7 @@
+{
+    "api_url": {
+        "description": "60秒新闻图片API地址",
+        "type": "string",
+        "default": "https://v.api.aa1.cn/api/60s-v3/"
+    }
+}
